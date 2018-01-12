@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_width">70dp</dimen>
+    <dimen name="btn_height">96dp</dimen>
+    <dimen name="marginR">5dp</dimen>
+    <dimen name="marginT">0dp</dimen>
+</resources>
